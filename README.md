@@ -1,2 +1,2 @@
 # FiSig
-pythonで簡易信号処理
+pythonで簡単信号処理. 信号処理に特化したnumpy+scipyラッパー.
